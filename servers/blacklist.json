@@ -14,13 +14,35 @@
             "serverip": "ayormc.net",
             "mods": [
                 "text.hitdelayfix.name",
-                "text.rearview.name"
+                "text.rearview.name",
+                "text.clientspoofer.name",
+                "text.godbridgeassist.name",
+                "text.playerpredicator.name"
             ]
-
+        },
+        {
+            "serverip": "arbw.net",
+            "mods": [
+                "text.hitdelayfix.name",
+                "text.rearview.name",
+                "text.clientspoofer.name",
+                "text.godbridgeassist.name",
+                "text.playerpredicator.name"
+            ]
+        },
+        {
+            "serverip": "asrbw.club",
+            "mods": [
+                "text.hitdelayfix.name",
+                "text.rearview.name",
+                "text.clientspoofer.name",
+                "text.godbridgeassist.name",
+                "text.playerpredicator.name"
+            ]
         },
         {
             "serverip": "blocksmc.com",
-            "mods": [ 
+            "mods": [
                 "text.hitdelayfix.name"
             ]
         }
