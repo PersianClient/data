@@ -1,0 +1,17 @@
+{
+  "latest": {
+    "release": "persianclient",
+    "snapshot": null
+  },
+  "versions": [
+    {
+      "id": "persianclient",
+      "type": "release",
+      "url": "https://github.com/PersianClient/data/blob/main/persianclient.json",
+      "time": "2015-12-03T09:24:39+03:30",
+      "releaseTime": "2015-12-03T12:54:39+03:30",
+      "sha1": "d1ea96b05aeb2a9204162cb5c7d8c7b6d2dabf0b",
+      "complianceLevel": 0
+    }
+  ]
+}
